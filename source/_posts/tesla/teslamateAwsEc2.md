@@ -1,7 +1,7 @@
 ---
 title: AWS EC2에서 TeslaMate 시작하기
 date: 2023-08-21 08:00:00
-thumbnail: /image/javascript.png
+index_img: /images/teslamateAwsEc2/thumbnail.jpg
 tags:
   - tesla
   - teslamate
