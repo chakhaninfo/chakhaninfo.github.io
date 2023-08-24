@@ -741,7 +741,6 @@ utterances:
   repo: "chakhaninfo/blog-comment"
   issue_term: pathname
   label: utterances
-  theme: "photon-dark"
   crossorigin: "anonymous"
   enable: true
 
