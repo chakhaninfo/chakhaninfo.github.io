@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.chakhan.info/tesla/teslaReferralUsage/</loc>
+        <lastmod>2023-08-24T07:24:27.689Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.chakhan.info/tesla/teslamateAwsEc2/</loc>
         <lastmod>2023-08-24T05:07:33.450Z</lastmod>
         <changefreq>weekly</changefreq>
