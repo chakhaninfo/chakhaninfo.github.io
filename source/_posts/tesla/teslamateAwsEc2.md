@@ -331,5 +331,5 @@ teslamate의 서버는 최소 1gb램을 필요로 합니다. t4g.nano 인스턴�
 ## 마무리
 
 이제 AWS 인스턴스에서 TeslaMate를 성공적으로 설치하였습니다. Tesla 차량의 데이터를 수집하고 시각화하여 차량 성능 및 사용 정보를 쉽게 파악할 수 있습니다. 추가적인 설정 및 기능 확장을 위해서는 TeslaMate 문서를 참조하세요.
-------------------
+
 레퍼럴코드: [https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)
