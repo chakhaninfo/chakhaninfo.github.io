@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.chakhan.info/tesla/teslaAutomaticCarWash/</loc>
+        <lastmod>2023-09-06T08:27:58.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.chakhan.info/tesla/teslamateAwsEc2/</loc>
         <lastmod>2023-09-05T13:15:37.269Z</lastmod>
         <changefreq>weekly</changefreq>
