@@ -67,6 +67,14 @@
       
       <tag>referral</tag>
       
+      <tag>로열티</tag>
+      
+      <tag>royalty</tag>
+      
+      <tag>환불</tag>
+      
+      <tag>refund</tag>
+      
       <tag>모델Y</tag>
       
       <tag>모델3</tag>
@@ -82,14 +90,6 @@
       <tag>modelS</tag>
       
       <tag>modelX</tag>
-      
-      <tag>로열티</tag>
-      
-      <tag>royalty</tag>
-      
-      <tag>환불</tag>
-      
-      <tag>refund</tag>
       
       <tag>사용법</tag>
       
@@ -120,6 +120,10 @@
       
       <tag>tesla</tag>
       
+      <tag>레퍼럴코드</tag>
+      
+      <tag>referral</tag>
+      
       <tag>teslamate</tag>
       
       <tag>docker</tag>
@@ -133,10 +137,6 @@
       <tag>arm</tag>
       
       <tag>t4g.micro</tag>
-      
-      <tag>레퍼럴코드</tag>
-      
-      <tag>referral</tag>
       
     </tags>
     
