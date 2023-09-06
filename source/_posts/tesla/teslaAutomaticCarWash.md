@@ -12,6 +12,7 @@ tags:
   - 전기차 자동세차 비용
   - 전기차 자동세차 방법
   - 현대오일뱅크 직영 주유소
+  - 전기차 세차 꿀팁
 category:
   - Tesla
 ---
@@ -34,7 +35,7 @@ category:
 
 2. 주유/세차 탭에서 `세차쿠폰북`을 선택합니다.
 
-![](/images/teslaAutomaticCarWash/teslaAutomaticCarWash-3.png)
+![](/images/teslaAutomaticCarWash/teslaAutomaticCarWash-3.jpeg)
 
 3. 세차쿠폰북을 구매합니다. 유효기간이 1년인 세차쿠폰북은 30,000원에 판매되고있으며 8매의 세차쿠폰을 제공합니다. 1회당 3,750원이며 1장당 1회 사용이 가능합니다. 1일 1회 사용 가능하고, 1년이 지나면 세차쿠폰북은 만료되며 사용할 수 없습니다.
 
