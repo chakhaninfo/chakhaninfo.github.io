@@ -13,6 +13,8 @@ tags:
   - t4g.micro
   - 레퍼럴코드
   - referral
+  - ubuntu
+  - 우분투
 category:
   - Tesla
 ---
@@ -108,103 +110,88 @@ ssh -i "teslamate.pem" ubuntu@<퍼블릭 IP>
 
 4. 위 명령어를 실행하여 인스턴스에 접속합니다. 퍼블릭 IP는 위에서 복사한 퍼블릭 IP로 대체합니다. `yes`를 입력하고 엔터를 누르면 접속이 됩니다.
 
-## Docker 설치
+## Docker, Docker Compose 설치
 
 ```sh
-cat > install_docker.sh << EOF
+cat > setup_docker_and_compose_arm.sh << EOF
 #!/bin/bash
 
 # Check if the script is running with root privileges
-if [ "\$EUID" -ne 0 ]; then
+if [ "$EUID" -ne 0 ]; then
   echo "Please run this script with sudo or as root."
   exit 1
 fi
 
 # Update package lists
-sudo apt-get update
+apt-get update
 
 # Install required dependencies
-sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+apt-get install -y apt-transport-https ca-certificates curl software-properties-common
 
 # Add Docker's official GPG key
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 
 # Add Docker repository for ARM64 (aarch64)
-echo "deb [arch=arm64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \$(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list
+echo "deb [arch=arm64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | tee /etc/apt/sources.list.d/docker.list
 
 # Update package lists (again) with the new repository
-sudo apt-get update
+apt-get update
 
 # Install Docker
-sudo apt-get install -y docker-ce
+apt-get install -y docker-ce
 
 # Add the current user to the 'docker' group to run Docker without sudo
-sudo usermod -aG docker \$USER
+usermod -aG docker $USER
 
 # Enable and start the Docker service
-sudo systemctl enable docker
-sudo systemctl start docker
+systemctl enable docker
+systemctl start docker
 
 # Output Docker version
 docker --version
 
-# Done!
-echo "Docker has been successfully installed and started."
-EOF
-```
-
-1. 위 코드를 그대로 복사하여 터미널에 붙여넣기 하면 `install_docker.sh` 파일이 생성됩니다.
-
-```sh
-sudo bash install_docker.sh
-```
-
-2. `install_docker.sh` 파일을 실행하여 도커를 설치합니다.
-
-```sh
-sudo chmod 777 /var/run/docker.sock
-```
-
-3. 위 명령어를 실행하여 도커 대한 관리자 권한을 부여합니다.
-
-## Docker Compose 설치
-
-```sh
-cat > install_docker_compose_arm.sh << EOF
-#!/bin/bash
-
+# Install docker-compose
 echo 'move /usr/bin'
 cd /usr/bin
 
 echo 'install docker-compose'
 wget https://github.com/linuxserver/docker-docker-compose/releases/download/1.29.2-ls51/docker-compose-arm64
 
-# Rename to docker-compose
+# docker-compose 이름으로 명명
 echo 'rename docker-compose-arm64 to docker-compose'
 mv docker-compose-arm64 docker-compose
 
-# Grant execute permission
+# 실행 권한 부여
 echo 'grant execute permission'
 chmod +x docker-compose
 
-# Set symbolic link
-# If /usr/bin/docker-compose is deleted, the symbolic link will be automatically deleted as well
+# 심볼릭 링크 설정
+# /usr/bin/docker-compose를 삭제하면 자동적으로 심볼릭 링크도 삭제됨
 echo 'set symbolic link'
 ln -s /usr/bin/docker-compose /usr/local/bin
 
-# Check installation
+# 설치 확인
 echo 'check docker-compose version'
 docker-compose --version
+
+# Done!
+echo "Docker and docker-compose have been successfully installed and configured."
 EOF
 ```
 
-1. 위 코드를 그대로 복사하여 터미널에 붙여넣기 하면 `install_docker_compose_arm.sh` 파일이 생성됩니다.
+1. 위 코드를 그대로 복사하여 터미널에 붙여넣기 하면 `setup_docker_and_compose_arm.sh` 파일이 생성됩니다.
 
 ```sh
-sudo bash install_docker_compose_arm.sh
+sudo bash setup_docker_and_compose_arm.sh
 ```
 
-2. `install_docker_compose_arm.sh` 파일을 실행하여 도커 컴포즈를 설치합니다.
+2. `setup_docker_and_compose_arm.sh` 파일을 실행하여 도커 컴포즈를 설치합니다.
+
+```sh
+sudo chmod 777 /var/run/docker.sock
+```
+
+3. Docker의 권한 문제로 인해 위 명령어를 실행하여 권한을 부여합니다.
 
 ## TeslaMate 설치
 
