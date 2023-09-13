@@ -1,5 +1,5 @@
 ---
-title: AWS EC2에서 TeslaMate 시작하기
+title: AWS EC2에서 TeslaMate 시작하기 (ubuntu, arm)
 date: 2023-08-21 08:00:00
 index_img: /images/teslamateAwsEc2/thumbnail.jpg
 tags:
