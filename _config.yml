@@ -27,6 +27,13 @@ sitemap:
   tag: false
   category: false
 
+# robots plugin
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: /sitemap.xml
+
 # Directory
 source_dir: source
 public_dir: public
