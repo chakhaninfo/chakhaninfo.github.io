@@ -19,6 +19,8 @@ tags:
   - 실내
   - 비건레더
   - 인조가죽
+  - warranty
+  - 워런티
 category:
   - Tesla
 ---
