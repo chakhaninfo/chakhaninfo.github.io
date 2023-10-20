@@ -21,6 +21,8 @@ tags:
   - 인조가죽
   - warranty
   - 워런티
+  - 레퍼럴
+  - referral
 category:
   - Tesla
 ---

@@ -15,6 +15,8 @@ tags:
   - referral
   - ubuntu
   - 우분투
+  - 레퍼럴
+  - referral
 category:
   - Tesla
 ---
