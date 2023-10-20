@@ -9,16 +9,8 @@
 
 
     <url>
-        <loc>https://www.chakhan.info/tesla/teslaHeadrest/</loc>
-        <lastmod>2023-10-11T07:13:26.078Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.chakhan.info/tesla/teslaAccident/</loc>
-        <lastmod>2023-10-10T03:52:59.886Z</lastmod>
+        <loc>https://www.chakhan.info/tesla/teslaUpperArm/</loc>
+        <lastmod>2023-10-20T13:51:01.309Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +18,15 @@
 
     <url>
         <loc>https://www.chakhan.info/tesla/teslamateAwsEc2/</loc>
-        <lastmod>2023-09-13T03:02:15.021Z</lastmod>
+        <lastmod>2023-10-20T13:50:33.877Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.chakhan.info/tesla/teslaHeadrest/</loc>
+        <lastmod>2023-10-20T13:50:27.832Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,7 +34,15 @@
 
     <url>
         <loc>https://www.chakhan.info/tesla/teslaAutomaticCarWash/</loc>
-        <lastmod>2023-09-06T08:36:49.560Z</lastmod>
+        <lastmod>2023-10-20T13:50:21.633Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.chakhan.info/tesla/teslaAccident/</loc>
+        <lastmod>2023-10-20T13:50:11.880Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
