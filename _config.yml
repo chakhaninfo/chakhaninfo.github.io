@@ -32,7 +32,7 @@ robotstxt:
   useragent: "*"
   allow:
     - /
-  sitemap: /sitemap.xml
+  sitemap: https://www.chakhan.info/sitemap.xml
 
 # Directory
 source_dir: source

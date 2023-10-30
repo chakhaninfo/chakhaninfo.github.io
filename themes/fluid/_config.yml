@@ -1075,3 +1075,8 @@ static_prefix:
   discuss: https://lib.baomitu.com/discuss/1.2.1/
 
   hint: https://lib.baomitu.com/hint.css/2.7.0/
+
+
+# auto no follow
+nofollow:
+  enable: true
