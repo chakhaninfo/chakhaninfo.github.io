@@ -24,21 +24,21 @@
       
       <tag>테슬라</tag>
       
-      <tag>referral</tag>
+      <tag>모델y</tag>
       
       <tag>모델3</tag>
       
-      <tag>model3</tag>
-      
-      <tag>arm</tag>
-      
       <tag>modely</tag>
       
-      <tag>모델y</tag>
+      <tag>model3</tag>
       
       <tag>modelx</tag>
       
       <tag>models</tag>
+      
+      <tag>레퍼럴</tag>
+      
+      <tag>referral</tag>
       
       <tag>어퍼암</tag>
       
@@ -48,15 +48,15 @@
       
       <tag>하체</tag>
       
+      <tag>소음</tag>
+      
       <tag>조수석</tag>
       
       <tag>운전석</tag>
       
       <tag>upper</tag>
       
-      <tag>레퍼럴</tag>
-      
-      <tag>소음</tag>
+      <tag>arm</tag>
       
     </tags>
     
@@ -85,15 +85,17 @@
       
       <tag>테슬라</tag>
       
-      <tag>referral</tag>
+      <tag>모델y</tag>
       
       <tag>모델3</tag>
       
-      <tag>model3</tag>
-      
       <tag>modely</tag>
       
-      <tag>모델y</tag>
+      <tag>model3</tag>
+      
+      <tag>레퍼럴</tag>
+      
+      <tag>referral</tag>
       
       <tag>headrest</tag>
       
@@ -118,8 +120,6 @@
       <tag>warranty</tag>
       
       <tag>워런티</tag>
-      
-      <tag>레퍼럴</tag>
       
     </tags>
     
@@ -148,15 +148,17 @@
       
       <tag>테슬라</tag>
       
-      <tag>referral</tag>
+      <tag>모델y</tag>
       
       <tag>모델3</tag>
       
-      <tag>model3</tag>
-      
       <tag>modely</tag>
       
-      <tag>모델y</tag>
+      <tag>model3</tag>
+      
+      <tag>modelx</tag>
+      
+      <tag>models</tag>
       
       <tag>사고</tag>
       
@@ -165,10 +167,6 @@
       <tag>렌트카</tag>
       
       <tag>대차</tag>
-      
-      <tag>modelx</tag>
-      
-      <tag>models</tag>
       
       <tag>분당자일</tag>
       
@@ -183,6 +181,8 @@
       <tag>이카</tag>
       
       <tag>레퍼럴</tag>
+      
+      <tag>referral</tag>
       
     </tags>
     
@@ -211,6 +211,10 @@
       
       <tag>테슬라</tag>
       
+      <tag>레퍼럴</tag>
+      
+      <tag>referral</tag>
+      
       <tag>전기차 세차</tag>
       
       <tag>전기차 주유소 자동세차</tag>
@@ -225,11 +229,7 @@
       
       <tag>현대오일뱅크 직영 주유소</tag>
       
-      <tag>referral</tag>
-      
       <tag>전기차 세차 꿀팁</tag>
-      
-      <tag>레퍼럴</tag>
       
     </tags>
     
@@ -256,9 +256,13 @@
       
       <tag>tesla</tag>
       
-      <tag>레퍼럴코드</tag>
+      <tag>모델3</tag>
+      
+      <tag>model3</tag>
       
       <tag>referral</tag>
+      
+      <tag>레퍼럴코드</tag>
       
       <tag>로열티</tag>
       
@@ -270,15 +274,11 @@
       
       <tag>모델Y</tag>
       
-      <tag>모델3</tag>
-      
       <tag>모델S</tag>
       
       <tag>모델X</tag>
       
       <tag>modelY</tag>
-      
-      <tag>model3</tag>
       
       <tag>modelS</tag>
       
@@ -313,9 +313,13 @@
       
       <tag>tesla</tag>
       
-      <tag>레퍼럴코드</tag>
+      <tag>레퍼럴</tag>
       
       <tag>referral</tag>
+      
+      <tag>레퍼럴코드</tag>
+      
+      <tag>arm</tag>
       
       <tag>teslamate</tag>
       
@@ -327,15 +331,11 @@
       
       <tag>ec2</tag>
       
-      <tag>arm</tag>
-      
       <tag>t4g.micro</tag>
       
       <tag>ubuntu</tag>
       
       <tag>우분투</tag>
-      
-      <tag>레퍼럴</tag>
       
     </tags>
     
