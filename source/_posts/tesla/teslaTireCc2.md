@@ -66,5 +66,7 @@ category:
 
 ![](/images/teslaTireCc2/teslaTireCc2-8.png)
 타이어 교체 후 빗길, 고속도로 주행하였는데 소음은 다소 증가되었다고 느꼈으나 모델3 순정 mxm4 타이어 구름소리와 비슷하다고 느꼇고 승차감은 좋아진다는데 플라시보 효과인지 아직은 잘 모르겠습니다. 겨울이라 유턴 시 득득득 하며 타이어가 딱딱해져 소음이 발생하였는데 새 타이어라 그런지 그런 느낌은 전혀 들지 않았습니다. 겨울엔 윈터가 가장 좋다고 하지만 수도권엔 제설이 잘 되어 올웨더타이어인 CC2가 적합하다고 판단되어 교체를 진행하였는데 눈길, 빗길 성능이 어떤지는 더 경험해봐야 할 것 같습니다.
+![](/images/teslaTireCc2/teslaTireCc2-9.jpeg)
+주말에 교환 후 주중(월요일)에 쿠폰번호를 받아 바로 웨건 신청했습니다.
 
 레퍼럴코드: [https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)
