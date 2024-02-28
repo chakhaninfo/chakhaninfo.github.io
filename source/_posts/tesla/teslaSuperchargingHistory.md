@@ -34,21 +34,17 @@ category:
 프로필아이콘 - 계정 - 충전 - 기록 - 기록 상세보기 - 청구서를 확인하면 됩니다.  
 사진으로 된 설명은 아래의 단계를 따라하면 됩니다.
 
-### 앱에서 프로필 아이콘을 클릭합니다.
+### 앱에서 우측 상단의 메뉴 아이콘을 클릭합니다.
 
-![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-1.PNG)
-
-### 계정을 클릭합니다.
-
-![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-2.PNG)
+![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-7.PNG)
 
 ### 충전을 클릭합니다.
 
-![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-3.PNG)
+![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-8.PNG)
 
 ### 기록을 클릭합니다.
 
-![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-4.PNG)
+![](/images/teslaSuperchargingHistory/teslaSuperchargingHistory-9.PNG)
 
 ### 기록 상세보기를 클릭 후 청구서를 확인합니다.
 
