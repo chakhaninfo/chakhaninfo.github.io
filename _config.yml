@@ -114,6 +114,6 @@ plugins:
 
 # Deployment
 deploy:
-  repo: https://github.com/chakhaninfo/chakhaninfo.github.io.git
+  repo: git@github.com-jw:chakhaninfo/chakhaninfo.github.io.git
   type: git
   branch: gh-pages
