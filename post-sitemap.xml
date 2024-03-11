@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.chakhan.info/tesla/teslaReferAndEarn/</loc>
+        <lastmod>2024-03-11T06:29:14.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.chakhan.info/tesla/teslaSuperchargingHistory/</loc>
         <lastmod>2024-02-28T12:33:17.320Z</lastmod>
         <changefreq>weekly</changefreq>
