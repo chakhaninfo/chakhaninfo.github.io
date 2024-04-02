@@ -122,6 +122,169 @@
   
   
   <entry>
+    <title>전기차 충전 시간, 금액 계산기</title>
+    <link href="/charge/chargeCalcTimeAndCost/"/>
+    <url>/charge/chargeCalcTimeAndCost/</url>
+    
+    <content type="html"><![CDATA[<h2 id="차종-별-배터리-용량"><a href="#차종-별-배터리-용량" class="headerlink" title="차종 별 배터리 용량"></a>차종 별 배터리 용량</h2><p>차종별 배터리 용량은 다르고 차량 종류도 300여대 이상으로 다양합니다.<br><a href="https://ev-database.org/">여기</a>는 <code>ev-database</code>라는 사이트인데 왠만한 전기차 정보가 있습니다.<br>참고하시면 좋을 것 같습니다.<br>제가 타는 <code>테슬라 모델Y Long Range</code>의 사용 가능한 배터리 용량은 <code>75kWh</code>입니다.</p><h2 id="계산기-사용-방법"><a href="#계산기-사용-방법" class="headerlink" title="계산기 사용 방법"></a>계산기 사용 방법</h2><p><code>배터리 용량(kWh)</code>에는 차종별 배터리 용량을 입력하시면 됩니다.<br><code>충전기 속도(kW)</code>는 충전기의 속도를 입력하시면 됩니다. (급속, 완속 충전기 속도 7kW, 22kW, 50kW, 100kW, 150kW, 350kW 등)<br><code>충전 퍼센트(%)</code>는 충전하고 싶은 배터리 용량의 퍼센트를 입력하시면 됩니다.<br><code>kW당 금액(원)</code>은 전기요금을 입력하시면 됩니다. (전기요금은 1kWh당 200원, 350원 등)</p><script type="text/javascript">function calculateChargingTime() {    // 입력값 가져오기    var batteryCapacity = parseFloat(document.getElementById("batteryCapacity").value); // 배터리 용량(kWh)    var chargerSpeed = parseFloat(document.getElementById("chargerSpeed").value); // 충전기 속도(kW)    var percent = parseFloat(document.getElementById("percent").value); // 충전 퍼센트    var kwPerWon = parseFloat(document.getElementById("kwPerWon").value); // kW당 금액(원)    var chargingBatteryCapacity = batteryCapacity * percent / 100;    // 시간 계산    function chargingTime(chargingBatteryCapacity, chargerSpeed) {      if(!isFinite(chargingBatteryCapacity / chargerSpeed)) {        return '';      }      var chargingTimeHours = Math.floor(chargingBatteryCapacity / chargerSpeed);      var chargingTimeMinutes = Math.round((chargingBatteryCapacity / chargerSpeed - chargingTimeHours) * 60);      return chargingTimeHours + " 시간 " + chargingTimeMinutes + " 분";    }    function calculateChargingCost(chargingBatteryCapacity, kwPerWon) {        if(!isFinite(chargingBatteryCapacity * kwPerWon)) {          return '';        }        return chargingBatteryCapacity * kwPerWon + " 원";    }    // 결과 표시    document.getElementById("result").innerHTML = chargingTime(chargingBatteryCapacity, chargerSpeed)    document.getElementById("chargingCost").innerHTML = calculateChargingCost(chargingBatteryCapacity, kwPerWon);}</script><style>    .input-label {        width: 200px;        display: inline-block;        text-align: right;        margin-right: 10px;    }    p > input {        display: inline-block;        width: 300px;        margin-right: 10px;    }</style><p><span class="input-label">배터리 용량(kWh): </span><input type="number" id="batteryCapacity" oninput="calculateChargingTime()"></p><p><span class="input-label">충전기 속도(kW): </span><input type="number" id="chargerSpeed" oninput="calculateChargingTime()"></p><p><span class="input-label">충전 퍼센트(%): </span><input type="number" id="percent" oninput="calculateChargingTime()"></p><p><span class="input-label">kW당 금액(원): </span><input type="number" id="kwPerWon" oninput="calculateChargingTime()"></p><p><span class="input-label">충전에 걸리는 시간: </span><span id="result"></span></p><p><span class="input-label">충전 금액: </span><span id="chargingCost"></span></p><p>위 충전기는 <code>충전손실</code>과 <code>배터리 히팅</code>을 고려하지 않았습니다.<br>충전기 속도가 빠를수록 충전 시간이 짧아지고, kW당 금액이 낮을수록 충전 금액이 적어집니다.<br><br><br>레퍼럴코드: <a href="https://www.tesla.com/ko_kr/referral/jungwon51749">https://www.tesla.com/ko_kr&#x2F;referral&#x2F;jungwon51749</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Charge</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>tesla</tag>
+      
+      <tag>테슬라</tag>
+      
+      <tag>모델y</tag>
+      
+      <tag>모델3</tag>
+      
+      <tag>modely</tag>
+      
+      <tag>model3</tag>
+      
+      <tag>modelx</tag>
+      
+      <tag>models</tag>
+      
+      <tag>레퍼럴</tag>
+      
+      <tag>referral</tag>
+      
+      <tag>충전</tag>
+      
+      <tag>전기차</tag>
+      
+      <tag>코나</tag>
+      
+      <tag>니로</tag>
+      
+      <tag>아이오닉</tag>
+      
+      <tag>시간</tag>
+      
+      <tag>계산</tag>
+      
+      <tag>금액</tag>
+      
+      <tag>급속</tag>
+      
+      <tag>완속</tag>
+      
+      <tag>충전기</tag>
+      
+      <tag>배터리</tag>
+      
+      <tag>용량</tag>
+      
+      <tag>충전량</tag>
+      
+      <tag>충전량 계산</tag>
+      
+      <tag>충전기 속도</tag>
+      
+      <tag>충전 시간</tag>
+      
+      <tag>충전 금액</tag>
+      
+      <tag>충전 시간 계산</tag>
+      
+      <tag>충전 금액 계산</tag>
+      
+      <tag>충전 시간 계산기</tag>
+      
+      <tag>충전 금액 계산기</tag>
+      
+      <tag>ev6</tag>
+      
+      <tag>ev9</tag>
+      
+      <tag>아이오닉6</tag>
+      
+      <tag>아이오닉5</tag>
+      
+      <tag>폴스타</tag>
+      
+      <tag>폴스타2</tag>
+      
+      <tag>bmw</tag>
+      
+      <tag>i3</tag>
+      
+      <tag>i4</tag>
+      
+      <tag>i5</tag>
+      
+      <tag>i7</tag>
+      
+      <tag>benz</tag>
+      
+      <tag>벤츠</tag>
+      
+      <tag>eqa</tag>
+      
+      <tag>eqb</tag>
+      
+      <tag>eqe</tag>
+      
+      <tag>eqs</tag>
+      
+      <tag>eqg</tag>
+      
+      <tag>험머</tag>
+      
+      <tag>ix</tag>
+      
+      <tag>ix3</tag>
+      
+      <tag>ix5</tag>
+      
+      <tag>폭스바겐</tag>
+      
+      <tag>id4</tag>
+      
+      <tag>ix1</tag>
+      
+      <tag>현대</tag>
+      
+      <tag>기아</tag>
+      
+      <tag>아우디</tag>
+      
+      <tag>q4 e-tron</tag>
+      
+      <tag>이트론</tag>
+      
+      <tag>e-tron</tag>
+      
+      <tag>q8 e-tron</tag>
+      
+      <tag>포르쉐</tag>
+      
+      <tag>taycan</tag>
+      
+      <tag>타이칸</tag>
+      
+      <tag>calc</tag>
+      
+      <tag>calculator</tag>
+      
+      <tag>cost</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>테슬라 앱 추천하고 크레딧 받기 광고 삭제하기</title>
     <link href="/tesla/teslaReferAndEarnDelete/"/>
     <url>/tesla/teslaReferAndEarnDelete/</url>
