@@ -19,7 +19,7 @@ category:
   - Charge
 ---
 
-# 파워큐브 과금형 콘센트 설명
+# 과금형 콘센트 설명
 
 ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-11.png)
 구글에 `전기차 도전`으로 검색하면 다양한 도전 사례들을 볼 수 있습니다.  
@@ -40,7 +40,7 @@ category:
    ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-15.png)
    왼쪽은 초록색 도전 방지 콘센트 오른쪽은 노란색 과금형 콘센트입니다.
 
-# 파워큐브 과금형 콘센트 사용 방법
+# 사용 방법
 
 1. 모바일 충전기를 파워큐브 과금형 콘센트에 연결합니다.
    ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-1.png)
