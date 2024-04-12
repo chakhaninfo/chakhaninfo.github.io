@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.chakhan.info/charge/samsungcardIdev/</loc>
+        <lastmod>2024-04-12T12:01:01.700Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.chakhan.info/charge/powercubeChargingOutlet/</loc>
         <lastmod>2024-04-12T07:13:12.610Z</lastmod>
         <changefreq>weekly</changefreq>
