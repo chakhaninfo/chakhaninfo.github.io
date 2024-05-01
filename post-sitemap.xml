@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.chakhan.info/tesla/teslaStreeringWheel/</loc>
+        <lastmod>2024-05-01T16:09:17.615Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.chakhan.info/charge/samsungcardIdev/</loc>
         <lastmod>2024-04-12T12:01:01.700Z</lastmod>
         <changefreq>weekly</changefreq>
