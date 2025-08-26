@@ -1,7 +1,7 @@
 ---
 title: 테슬라 모델Y 주니퍼 문콕 출장 덴트 수리 후기
 date: 2025-08-27 08:00:00
-index_img: /images/teslaAccident/thumbnail.jpg
+index_img: /images/teslaDoorDent/thumbnail.png
 tags:
   - 테슬라 모델Y 문콕
   - 테슬라 모델Y 주니퍼 문콕
