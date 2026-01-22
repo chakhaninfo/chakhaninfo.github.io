@@ -1,44 +1,63 @@
 ---
-title: 삼성 idev 잔여 할인 금액 확인 방법
+title: 삼성카드 iEV(아이이브이) 전기차 충전요금 잔여 할인 한도 조회 방법
 date: 2024-04-12 08:00:00
 index_img: /images/samsungcardIdev/thumbnail.jpg
+description: 삼성 iEV(idev) 카드의 핵심 혜택인 전기차 충전요금 할인! 이번 달에 얼마나 더 할인받을 수 있는지, 남은 할인 한도를 삼성카드 앱에서 손쉽게 확인하는 방법을 단계별로 안내합니다. 전월 실적에 따른 할인 한도를 놓치지 말고 관리하세요.
 tags:
   - 전기차
   - 삼성카드
   - idev
-  - 할인
-  - 삼성카드 idev
+  - iEV
+  - 삼성 iEV 카드
+  - 전기차 충전요금 할인
+  - 삼성카드 혜택
   - 잔여 할인
-  - 잔여 할인 금액
-  - 확인
+  - 할인 한도 조회
+  - 삼성카드 앱
+  - Samsung iEV card
+  - electric vehicle
 category:
   - Charge
 ---
 
-# 삼성 idev 혜택
+삼성 iEV(idev) 카드는 높은 전기차 충전요금 할인율 덕분에 많은 전기차 오너들에게 사랑받았지만, 아쉽게도 지금은 신규 발급이 중단되고 갱신 및 재발급만 가능합니다.
 
-2024년 3월 6일까지 발급이 가능했던 삼성 idev카드에 대한 혜택은 다음과 같습니다. 자세한 혜택은 [공식 홈페이지](https://www.samsungcard.com/home/card/cardinfo/PGHPPCCCardCardinfoDetails001?code=AAP1747)에서 확인 할 수 있습니다. 지금은 `갱신 / 재발급`만 가능합니다.
+이 카드의 핵심은 전월 실적에 따라 **최대 70%까지 전기차 충전요금을 할인**해주는 것인데, 매월 제공되는 할인 한도를 전부 사용했는지 확인하기가 다소 번거롭습니다.
 
-## 주요 혜택 요약
+이 글에서는 삼성카드 앱을 통해 **이번 달에 남은 iEV 카드 충전요금 할인 한도**를 간단하게 조회하는 방법을 소개합니다.
 
-- 전기차 충전요금 50%, 70% 할인
-- 주차장, 하이패스, 대리운전 10% 할인
-- 배달앱 10% 할인
-- 스트리밍 20% 할인
-- 해외 결제 1% 할인
+## 1. 삼성카드 앱 혜택 메뉴 접속
 
-# 잔여 할인 금액 확인 방법
+먼저, 삼성카드 앱에 로그인한 후, 메인 화면 하단의 **`받을 수 있는 혜택 보기`** 버튼을 탭합니다.
 
-1. 삼성카드 앱을 실행하여 아래 쪽의 `받을 수 있는 혜택 보기`를 클릭합니다.
-   ![](/images/samsungcardIdev/samsungcardIdev-1.PNG)
+![삼성카드 앱 메인 화면](/images/samsungcardIdev/samsungcardIdev-1.PNG "삼성카드 앱 혜택 보기")
 
-2. `이번 달 받은 혜택`을 클릭합니다.
-   ![](/images/samsungcardIdev/samsungcardIdev-2.PNG)
+## 2. 이번 달 받은 혜택 확인
 
-3. 아래 쪽 `전기차 충전요금 50%, 70% 결제일할인`에서 잔여 금액을 확인하면 됩니다.
-   ![](/images/samsungcardIdev/samsungcardIdev-3.PNG)
+혜택 화면으로 이동하면 상단에 `이번 달 받은 혜택` 금액이 표시됩니다. 이 부분을 클릭하여 세부 내역으로 들어갑니다.
 
-4. 전기차 충전 할인 뿐만 아니라 다른 혜택도 확인 할 수 있습니다.
-   ![](/images/samsungcardIdev/samsungcardIdev-4.PNG)
+![삼성카드 혜택 화면](/images/samsungcardIdev/samsungcardIdev-2.PNG "이번 달 받은 혜택 확인")
 
-테슬라 레퍼럴코드: [https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)
+## 3. iEV카드 잔여 할인 한도 조회
+
+혜택 상세 내역 화면을 아래로 스크롤하여 **`전기차 충전요금 50%, 70% 결제일할인`** 항목을 찾습니다. 여기에 표시된 `남은 혜택` 금액이 바로 이번 달에 추가로 할인받을 수 있는 잔여 한도입니다.
+
+![전기차 충전요금 할인 잔여 한도 확인](/images/samsungcardIdev/samsungcardIdev-3.PNG "iEV카드 잔여 할인 한도")
+
+## 4. 기타 혜택 확인
+
+같은 화면에서 전기차 충전 할인뿐만 아니라 주차장, 배달앱, 스트리밍 등 iEV 카드가 제공하는 다른 할인 혜택의 잔여 한도도 함께 확인할 수 있습니다.
+
+![iEV카드 기타 할인 혜택 내역](/images/samsungcardIdev/samsungcardIdev-4.PNG "기타 할인 혜택 확인")
+
+## 결론: iEV 카드 할인 한도, 스마트하게 관리하기
+
+삼성 iEV 카드를 최대한 활용하려면 매월 제공되는 할인 한도를 놓치지 않는 것이 중요합니다. 위에서 안내한 방법으로 삼성카드 앱에서 간편하게 잔여 할인 한도를 확인하고, 계획적인 소비를 통해 전기차 충전 비용을 절약해 보세요.
+
+---
+
+### Tesla 레퍼럴 코드
+
+제 추천 링크를 통해 Tesla 신차를 구매하거나 시승하면 할인 혜택과 무료 슈퍼차징 크레딧을 받을 수 있습니다.
+
+[https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)

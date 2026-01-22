@@ -1,83 +1,102 @@
 ---
-title: 파워큐브 과금형 콘센트 사용 방법
+title: 파워큐브 과금형 콘센트 완벽 사용 가이드 - 도전 구분, 앱 사용법, 주의사항 총정리
 date: 2024-04-03 08:00:00
 index_img: /images/powercubeChargingOutlet/thumbnail.jpg
+description: 전기차 충전 솔루션, 파워큐브 과금형 콘센트의 모든 것을 알려드립니다. 정당한 요금을 내고 충전하는 방법부터 '전기 도전(도둑 전기)'을 구분하는 방법, 전용 앱 사용법, 결제 과정, 그리고 안전한 사용을 위한 주의사항까지 상세하게 설명합니다. 이 가이드 하나로 과금형 콘센트 사용에 대한 모든 궁금증을 해결하세요.
 tags:
   - 전기차
   - 파워큐브
-  - 과금형
-  - 콘센트
-  - 충전
-  - 사용
-  - 방법
-  - 모바일충전기
-  - 개인충전기
-  - 도전
   - 과금형 콘센트
   - 이동형 충전기
+  - 전기차 충전
+  - 전기차 도전
+  - 파워큐브 사용법
+  - 아파트 전기차 충전
+  - EV Charging
+  - Powercube
+  - 모바일 충전기
 category:
   - Charge
 ---
 
-# 과금형 콘센트 설명
+최근 아파트나 공용 주차장에서 '전기 도전(도둑 전기)' 문제로 인해 정당하게 요금을 지불하고 충전하는 전기차 오너들이 피해를 보는 경우가 많습니다. 특히 `파워큐브 과금형 콘센트`는 허가된 사용자만 이용할 수 있는 편리한 시스템이지만, 일반 콘센트와 외관상 구분이 어려워 오해를 사기도 합니다.
 
-![](/images/powercubeChargingOutlet/powercubeChargingOutlet-11.png)
-구글에 `전기차 도전`으로 검색하면 다양한 도전 사례들을 볼 수 있습니다.  
-`과금형 콘센트`를 정당하게 요금 지불하며 이용하는 사람들이 `도전`을 하는 일부 차주들 때문에 신고당하거나 충전중인 충전기를 뽑히는 등 불편을 겪는 사례들이 종종 있습니다.  
-따라서 파워큐브 도전 구분과 콘센트 설명을 통해 이용자 뿐만아니라 비전기차 차주들에게도 이해를 도울 수 있도록 설명을 하겠습니다.
+이 글에서는 파워큐브 과금형 콘센트의 정확한 사용법과 일반 전기 도전 행위를 명확히 구분하는 방법을 안내하여, 전기차 이용자와 비이용자 모두의 이해를 돕고 불필요한 갈등을 줄이고자 합니다.
 
-1. `일반 흰색 콘센트`이고 주변에 아무런 `태그`나 표시가 `없는 경우`, 이 콘센트는 `일반 콘센트`입니다. 이 경우 충전중인 차량이 있다면 `도전` 신고를 꼭 하세요. 관리사무소는 아무런 힘이 없기에 `112 문자 신고`로 꼭 접수하시길 바랍니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-14.png)
-2. `일반 흰색 콘센트`이고 주변에 `파워큐브 태그`가 있다면, 아래 두가지 충전기가 아닐 시 `도전`입니다.
+## 1. '전기 도전'과 '과금형 콘센트' 구분하기
 
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-12.png)
-   왼쪽은 `구형 파워큐브 이동형 충전기`, 오른쪽은 `신형 파워큐브 이동형 충전기`로 구형은 콘센트 부근에 단말기가 설치되어 있고, 신형은 충전구 부근에 단말기가 설치되어 있습니다. 이 두개의 충전기가 아닌 경우 도전입니다.
+![정상적인 과금형 콘센트 사용 모습](/images/powercubeChargingOutlet/powercubeChargingOutlet-11.png "파워큐브 과금형 콘센트 정상 사용")
 
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-13.png)
-   사실 이볼트라고 이동형 충전기 사업을 하는 사업자가 있기는 한데 이볼트를 이용하는 사람들이 극히 적습니다. 흰색 콘센트에 이볼트를 이용하는 경우가 있으니 이볼트인지 확인하시길 바랍니다. 이볼트를 사용한다면 도전이 아닙니다.
+먼저, 어떤 경우가 '도전'이고 어떤 경우가 정상적인 충전인지 구분하는 방법을 알아보겠습니다.
 
-3. 초록색 도전 방지 콘센트, 노란색 과금형 콘센트가 설치되어 있다면 도전 걱정은 안해도 됩니다. 초록색 도전 방지 콘센트는 인증 된 이동형 충전기를 갖고있는 차량에만 충전이 가능하고, 노란색 과금형 콘센트는 개인 모바일 충전기를 갖고있는 모든 사용자가 충전 가능합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-15.png)
-   왼쪽은 초록색 도전 방지 콘센트 오른쪽은 노란색 과금형 콘센트입니다.
+### Case 1: 도전이 확실한 경우 (일반 콘센트 무단 사용)
 
-# 사용 방법
+![일반 콘센트 모습](/images/powercubeChargingOutlet/powercubeChargingOutlet-14.png "태그 없는 일반 콘센트")
+주변에 RFID 태그나 별도 장치가 없는 **일반 220V 콘센트**에 충전기를 연결하여 사용하고 있다면 명백한 '도전'입니다. 이 경우 관리사무소에 알리는 것보다 **112 문자 신고**를 통해 증거 사진과 함께 신고하는 것이 가장 효과적입니다.
 
-1. 모바일 충전기를 파워큐브 과금형 콘센트에 연결합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-1.png)
+### Case 2: 파워큐브 태그가 있는 경우
 
-2. 과금형 콘센트의 버튼을 눌러 충전을 시작합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-2.png)
+![파워큐브 RFID 태그](/images/powercubeChargingOutlet/powercubeChargingOutlet-12.png "콘센트 옆 파워큐브 태그")
+콘센트 주변에 위와 같은 **파워큐브 태그**가 붙어 있다면, 파워큐브의 정식 이동형 충전기를 사용하는지 확인해야 합니다.
 
-3. 파워큐브 과금형 콘센트 앱을 실행하고 충전하기 버튼을 선택합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-3.PNG)
+![파워큐브 이동형 충전기 구형과 신형](/images/powercubeChargingOutlet/powercubeChargingOutlet-13.png "파워큐브 이동형 충전기 종류")
+왼쪽의 구형 충전기나 오른쪽의 신형 충전기처럼 생긴 전용 제품을 사용해야 합니다. 만약 다른 형태의 일반 충전기를 사용하고 있다면 도전일 가능성이 높습니다. (단, '이볼트'라는 다른 사업자의 이동형 충전기일 수 있으나 사용자가 매우 적습니다.)
 
-4. 블루투스 버튼을 눌러 블루투스를 연결합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-4.PNG)
+### Case 3: 도전 걱정 없는 전용 콘센트
 
-5. 충전가능 과금형 콘센트를 선택합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-5.PNG)
+![도전 방지 콘센트와 과금형 콘센트](/images/powercubeChargingOutlet/powercubeChargingOutlet-15.png "전기차 전용 콘센트 종류")
+왼쪽의 **초록색(도전 방지 콘센트)**이나 오른쪽의 **노란색(과금형 콘센트)**처럼 생긴 전용 콘센트는 인증된 충전기나 결제 시스템을 통해서만 사용할 수 있으므로 도전의 우려가 없습니다. 이 글에서는 바로 이 '노란색 과금형 콘센트' 사용법을 자세히 다룹니다.
 
-6. 연결되었습니다. 팝업을 확인합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-6.PNG)
+## 2. 파워큐브 과금형 콘센트 사용 방법 (단계별 가이드)
 
-7. 충전량 설정에서 원하는 충전금액 또는 충전 kWh를 설정 후 결제하기 버튼을 눌러 결제합니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-7.PNG)
+파워큐브 과금형 콘센트는 개인 소유의 모바일 충전기(220V)를 연결하여 사용하는 방식입니다. 전용 앱을 통해 블루투스로 인증 및 결제를 진행합니다.
 
-8. 결제가 진행되면 결제 처리중이라고 표시됩니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-8.PNG)
+1.  **충전기 연결**: 사용하려는 과금형 콘센트에 개인 모바일 충전기를 꽂습니다.
+    ![모바일 충전기를 콘센트에 연결하는 모습](/images/powercubeChargingOutlet/powercubeChargingOutlet-1.png "과금형 콘센트에 충전기 연결")
 
-9. 결제 처리완료 후 충전이 시작됩니다.
-   ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-9.PNG)
+2.  **충전 시작 버튼**: 콘센트의 물리적 버튼을 눌러 전원을 활성화합니다.
+    ![콘센트의 시작 버튼을 누르는 손](/images/powercubeChargingOutlet/powercubeChargingOutlet-2.png "과금형 콘센트 시작 버튼")
 
-10. 파워큐브 과금형 콘센트 앱 홈 화면에서 "충전중입니다"와 함께 초록색으로 표시되면 정상적으로 충전 중입니다.
-    ![](/images/powercubeChargingOutlet/powercubeChargingOutlet-10.PNG)
+3.  **전용 앱 실행**: '파워큐브 과금형 콘센트' 앱을 실행하고 '충전하기'를 선택합니다. (기존 파워큐브 앱과 다릅니다!)
+    ![파워큐브 과금형 콘센트 앱 메인 화면](/images/powercubeChargingOutlet/powercubeChargingOutlet-3.PNG "앱 실행 후 충전하기 선택")
 
-# 주의사항
+4.  **블루투스 연결**: 블루투스 아이콘을 눌러 콘센트와 스마트폰을 연결합니다.
+    ![블루투스 연결 버튼](/images/powercubeChargingOutlet/powercubeChargingOutlet-4.PNG "블루투스 연결 시도")
 
-1. 과금형 콘센트 같은 그룹에 다른 사용자가 다른 곳에서 충전중인 경우 과금형 콘센트를 이용 할 수 없습니다.
-2. 과금형 콘센트를 이용하려면 `파워큐브 과금형 콘센트`라는 앱을 따로 설치해야 합니다. (기존 파워큐브 앱과 별도 앱이 있음)
-3. 해당 아파트에 접지가 불량 할 경우 충전이 안 될 수 있습니다.
-4. 13A를 초과하는 충전기를 사용 할 경우 화재 위험이 있습니다.
-5. 1.3A는 가정 에어컨을 가장 쎈 세기르 사용 할 때의 전력량과 비슷한 전력량입니다. 고부하 기기를 지속 사용하므로 인증된 충전기를 사용하시길 바랍니다
+5.  **콘센트 선택**: 앱에 표시된 사용 가능한 과금형 콘센트를 선택합니다.
+    ![사용 가능한 충전 콘센트 목록](/images/powercubeChargingOutlet/powercubeChargingOutlet-5.PNG "충전 가능 콘센트 선택")
 
-레퍼럴코드: [https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)
+6.  **연결 확인**: "연결되었습니다" 팝업 메시지를 확인합니다.
+    ![블루투스 연결 성공 팝업](/images/powercubeChargingOutlet/powercubeChargingOutlet-6.PNG "콘센트 연결 완료")
+
+7.  **충전량 설정 및 결제**: 원하는 충전량(kWh) 또는 금액을 설정하고 '결제하기'를 누릅니다.
+    ![충전량 설정 및 결제 화면](/images/powercubeChargingOutlet/powercubeChargingOutlet-7.PNG "결제 금액 설정")
+
+8.  **결제 진행**: 결제가 처리되는 동안 잠시 기다립니다.
+    ![결제 처리 중 표시 화면](/images/powercubeChargingOutlet/powercubeChargingOutlet-8.PNG "결제 진행 중")
+
+9.  **충전 시작**: 결제가 완료되면 자동으로 충전이 시작됩니다.
+    ![충전 시작 안내 화면](/images/powercubeChargingOutlet/powercubeChargingOutlet-9.PNG "충전 시작됨")
+
+10. **충전 상태 확인**: 앱 홈 화면에서 "충전 중입니다"라는 녹색 상태 표시를 통해 정상적으로 충전되고 있는지 최종 확인합니다.
+    ![앱 홈에서 충전 상태 확인](/images/powercubeChargingOutlet/powercubeChargingOutlet-10.PNG "정상 충전 중 상태")
+
+## 3. 꼭 알아둬야 할 주의사항
+
+1.  **그룹 동시 사용 불가**: 같은 그룹(분전반)에 묶인 다른 콘센트에서 타인이 충전 중일 경우, 추가로 사용할 수 없습니다.
+2.  **별도 앱 설치 필수**: '파워큐브 과금형 콘센트'라는 이름의 전용 앱을 설치해야 합니다.
+3.  **접지 상태 확인**: 건물 자체의 접지 상태가 불량하면 충전이 실패할 수 있습니다.
+4.  **과전류 위험**: 화재 예방을 위해 **13A를 초과하는 고속 모바일 충전기 사용은 절대 금물**입니다. 13A는 가정용 에어컨의 최대 소비 전력과 맞먹는 높은 부하입니다.
+5.  **안전 인증 충전기 사용**: 지속적인 고부하 사용에도 안전이 보장되는 KC 인증 정품 충전기를 사용하시기 바랍니다.
+
+## 결론: 안전하고 편리한 충전을 위하여
+
+파워큐브 과금형 콘센트는 전기차 충전 인프라가 부족한 환경에서 매우 유용한 대안입니다. '도전'으로 오해받지 않도록 명확한 구분법을 숙지하고, 안전한 사용을 위해 올바른 앱 사용법과 주의사항을 지키는 것이 중요합니다. 이 가이드를 통해 모든 전기차 유저가 마음 편히 충전하고, 비이용자와의 불필요한 오해와 갈등이 해소되기를 바랍니다.
+
+---
+
+### Tesla 레퍼럴 코드
+
+제 추천 링크를 통해 Tesla 신차를 구매하거나 시승하면 할인 혜택과 무료 슈퍼차징 크레딧을 받을 수 있습니다.
+
+[https://www.tesla.com/ko_kr/referral/jungwon51749](https://www.tesla.com/ko_kr/referral/jungwon51749)
