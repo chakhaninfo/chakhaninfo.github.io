@@ -27,13 +27,6 @@ sitemap:
   tag: false
   category: false
 
-# robots plugin
-robotstxt:
-  useragent: "*"
-  allow:
-    - /
-  sitemap: https://www.chakhan.info/sitemap.xml
-
 # Directory
 source_dir: source
 public_dir: public
